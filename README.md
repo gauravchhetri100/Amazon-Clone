@@ -11,9 +11,6 @@ This is a **frontend-only Amazon clone** project built using **HTML and CSS**. T
 
 > ❗ This project **does not include backend functionality** like login, cart, checkout, or API integration.
 
-## 📸 Screenshots
-
-_Add a few screenshots here of your clone interface (optional but looks good on GitHub)._
 
 ## 👨‍💻 Author
 
